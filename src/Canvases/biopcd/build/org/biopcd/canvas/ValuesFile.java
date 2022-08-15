@@ -21,7 +21,7 @@ import org.biopcd.widgets.Widget;
 import org.biolegato.main.DataCanvas;
 
 /**
- * <p>File format parser for a PCD values file.<br>
+ * <p>File format parser for a PCD values file.<br />
  * A PCD value file is specified as follows:</p>
  *
  * <p>Each line of a PCD values file contains a key value pair.  The key
